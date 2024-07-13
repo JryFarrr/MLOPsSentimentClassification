@@ -3,6 +3,9 @@ Nama: Jiryan Farokhi
 
 Username dicoding: jiryan_farokhi
 
+![image](https://github.com/user-attachments/assets/01e11bb5-f8d4-4991-b4f6-c1947b71535b)
+
+
 | | Deskripsi |
 | ----------- | ----------- |
 | Dataset | [Review Content Analyst](https://www.kaggle.com/competitions/internal-selection-satria-data)|
