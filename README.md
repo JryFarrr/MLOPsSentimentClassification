@@ -1,4 +1,4 @@
-# Submission 1: Sentiment Analys 
+# Submission 1: Sentiment Analysis 
 Nama: Jiryan Farokhi
 
 Username dicoding: jiryan_farokhi
